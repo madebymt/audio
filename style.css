@@ -17,7 +17,7 @@
     }
 
     .fa {
-      color: #F2545B;
+      color: #FFA69E;
       margin-right: 15px;
     }
 
@@ -62,4 +62,18 @@
       text-align: center;
       padding: 10px;
       font-family: fantasy;
+    }
+
+    button {
+      background-color: #91C7B1;
+      padding: 10px;
+      color: white;
+      border-radius: 10px;
+      box-shadow: none;
+      width: 150px;
+    }
+
+    .container {
+      display: flex;
+      justify-content: center;
     }
